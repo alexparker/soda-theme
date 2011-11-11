@@ -86,7 +86,7 @@
         // Active tab label
         "class": "tab_label",
         "parents": [{"class": "tab_control", "attributes": ["selected"]}],
-        "bg": [242, 242, 242]
+        "bg": [248, 248, 248]
     },
     // Tab close button
     {
