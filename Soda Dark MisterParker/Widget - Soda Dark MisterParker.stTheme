@@ -3,26 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Ian Hill</string>
+	<string>Ian Hill and Alex Parker</string>
 	<key>comment</key>
-	<string>A widget theme for the UI components of the Soda Light theme.</string>
+	<string>A widget theme for the UI components of the Soda Dark MisterParker theme.</string>
 	<key>name</key>
-	<string>Soda Light - Widget Theme</string>
+	<string>Soda Dark MisterParker- Widget Theme</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FFFFFF</string>
+				<string>#383838</string>
 				<key>caret</key>
-				<string>#000000</string>
+				<string>#F8F8F8</string>
 				<key>foreground</key>
-				<string>#000000</string>
+				<string>#F8F8F8</string>
 				<key>invisibles</key>
-				<string>#E0E0E0</string>
+				<string>#3B3B3B</string>
 				<key>selection</key>
-				<string>#b5d5ff</string>
+				<string>#222222</string>
 			</dict>
 		</dict>
 	</array>
